@@ -1,7 +1,12 @@
+<a target="_blank" href="https://arxiv.org/abs/2410.08551">
+  <img src="https://img.shields.io/badge/arXiv-2410.08551-red.svg" alt="arXiv Badge"/>
+</a>
+
 # FADM - Full Body Anonymization Using Diffusion Models
 
 ## Introduction
-TODO
+This is the official implementation for the paper "Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models" presented at the ACVR 2024 workshop in conjunction with ECCV 2024.
+
 
 ## Getting started
 
