@@ -1,0 +1,6 @@
+external
+yolov8m-seg.pt
+cache
+input
+output
+utils/__pycache__
