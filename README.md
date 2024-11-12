@@ -29,3 +29,9 @@ During the first run, the program will download the needed models and dependenci
 
 ## Multi GPU support
 Only one GPU can be used at the moment, but running multiple instances to anonymize different folders in parallel can be done by adding ``--cuda_device N`` to run on GPU ``N``
+
+## Acknowledgement
+<img src="https://github.com/user-attachments/assets/df32a1f2-19de-4c4b-a159-1b04d54e5e05" width="200"/> <img src="https://github.com/user-attachments/assets/04c13b7f-9df7-46d4-86b5-20dea08a8b68" width="200"/>
+
+This project emerged during the research projects [ANYMOS - Competence Cluster Anonymization for networked mobility systems](https://www.anymos.de/) and just better DATA (jbDATA) supported by the German Federal Ministry for Economic Affairs and Climate
+Action of Germany (BMWK) and was founded by the German Federal Ministry of Education and Research (BMBF) as part of NextGenerationEU of the European Union.
