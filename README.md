@@ -1,6 +1,9 @@
 <a target="_blank" href="https://arxiv.org/abs/2410.08551">
   <img src="https://img.shields.io/badge/arXiv-2410.08551-red.svg" alt="arXiv Badge"/>
 </a>
+<a target="_blank" href="https://doi.org/10.1007/978-3-031-92591-7_3">
+  <img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--031--92591--7_3-darkred" alt="DOI Badge"/>
+</a>
 
 # FADM - Full Body Anonymization Using Diffusion Models
 
